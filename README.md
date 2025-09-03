@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Data Scientist & AI/ML Enthusiast</h3>
 <img align="right" alt="Coding" width="200" src="JXA0.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrolux123&label=Profile%20views&color=0e75b6&style=flat" alt="cyrolux123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=45harry&label=Profile%20views&color=0e75b6&style=flat" alt="45harry" /> </p>
 
 - 🌱 I’m currently exploring **Data Anaysis, Machine Learning, Deep Learning, Generative AI, AI Agents and Data Science**
 
