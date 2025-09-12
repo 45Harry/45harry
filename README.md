@@ -92,15 +92,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
 
-<!-- Pinecone -->
-<a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/82060482?s=200&v=4" alt="pinecone" width="40" height="40"/>
-</a>
-
-<!-- ChromaDB -->
-<a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/logo.png" alt="chromadb" width="40" height="40"/>
-</a>
 
 <!-- Linux -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -120,6 +111,16 @@
 <!-- LangChain -->
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/>
+</a>
+
+<!-- Pinecone -->
+<a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/68418444?s=200&v=4" alt="pinecone" width="40" height="40"/>
+</a>
+
+<!-- ChromaDB -->
+<a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/128294537?s=200&v=4" alt="chromadb" width="40" height="40"/>
 </a>
 
 <!-- LangGraph -->
