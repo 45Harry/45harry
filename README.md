@@ -113,21 +113,6 @@
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/>
 </a>
 
-<!-- Pinecone 
-<a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pineconeio/pineconeio-icon.svg" alt="pinecone" width="40" height="40"/>
-</a>
-
-<!-- ChromaDB -->
-<a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/static/img/chroma-logo.png" alt="chromadb" width="40" height="40"/>
-</a>
-
-<!-- LangGraph -->
-<a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph-logo.png" alt="langgraph" width="40" height="40"/>
-  </a> -->
-
 
 </p>
 
