@@ -115,18 +115,19 @@
 
 <!-- Pinecone -->
 <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/68418444?s=200&v=4" alt="pinecone" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pineconeio/pineconeio-icon.svg" alt="pinecone" width="40" height="40"/>
 </a>
 
 <!-- ChromaDB -->
 <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/128294537?s=200&v=4" alt="chromadb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/static/img/chroma-logo.png" alt="chromadb" width="40" height="40"/>
 </a>
 
 <!-- LangGraph -->
 <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/146632219?s=200&v=4" alt="langgraph" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph-logo.png" alt="langgraph" width="40" height="40"/>
 </a>
+
 
 </p>
 
