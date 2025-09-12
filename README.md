@@ -94,12 +94,12 @@
 
 <!-- Pinecone -->
 <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pineconeio/pineconeio-icon.svg" alt="pinecone" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/82060482?s=200&v=4" alt="pinecone" width="40" height="40"/>
 </a>
 
 <!-- ChromaDB -->
 <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/128294537?s=280&v=4" alt="chromadb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/logo.png" alt="chromadb" width="40" height="40"/>
 </a>
 
 <!-- Linux -->
