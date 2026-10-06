@@ -11,7 +11,7 @@
 - 🎙️ Built **Colait**'s physician interview agent (Amazon Nova Sonic + Claude Haiku on Bedrock) and its clinical scribe pipeline
 - 🇳🇵 Working on **Nepali TTS**: Chatterbox and Matcha-TTS fine-tunes for Devanagari
 - 💬 Ask me about **voice agents, LiveKit, Bedrock, speech pipelines, and computer vision**
-- 🌐 Portfolio: **[45harry.github.io](https://45harry.github.io)**
+- 🌐 Portfolio: **[harins.com.np](https://harins.com.np)**
 - 📫 How to reach me: **smartharry499@gmail.com** · [LinkedIn](https://www.linkedin.com/in/45harry)
 
 ---
