@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hari Narayan Sah</h1>
-<h3 align="center">A Passionate Data Scientist & AI/ML Enthusiast</h3>
+<h3 align="center">AI Engineer · Production Voice Agents · Speech · Computer Vision</h3>
 
 <img align="right" alt="Coding" width="200" src="JXA0.gif">
 
@@ -7,10 +7,22 @@
   <img src="https://komarev.com/ghpvc/?username=45harry&label=Profile%20views&color=0e75b6&style=flat" alt="45harry" />
 </p>
 
-- 🌱 I’m currently exploring **Data Analysis, Machine Learning, Deep Learning, Generative AI, AI Agents, and Data Science**  
-- 💬 Ask me about **Python, DA, ML, DL, Gen AI, and DS**  
-- 📫 How to reach me **smartharry499@gmail.com**  
-- ⚡ Hobby : **EAT-SLEEP-CODE-MUSIC-REPEAT.**
+- 🔭 AI Engineer at **Mantra Ideas**, Lalitpur, shipping production voice systems and clinical speech pipelines
+- 🎙️ Built **Colait**'s physician interview agent (Amazon Nova Sonic + Claude Haiku on Bedrock) and its clinical scribe pipeline
+- 🇳🇵 Working on **Nepali TTS**: Chatterbox and Matcha-TTS fine-tunes for Devanagari
+- 💬 Ask me about **voice agents, LiveKit, Bedrock, speech pipelines, and computer vision**
+- 🌐 Portfolio: **[45harry.github.io](https://45harry.github.io)**
+- 📫 How to reach me: **smartharry499@gmail.com** · [LinkedIn](https://www.linkedin.com/in/45harry)
+
+---
+
+<h3 align="left">Featured Work:</h3>
+
+- **Colait**: clinical voice interview and scribe platform. Physician interviews over bidirectional audio or chat, with Nova Sonic speaking and Haiku planning each turn. Scribe turns a visit into a diarized, romanized brief. Deployed to ECR and Bedrock AgentCore. *(private)*
+- **TelvoxAI**: LiveKit voice-agent platform with a multi-tool phone agent (leads, calendar, transfer, custom HTTP tools). Moving STT to Groq cut turn latency from ~8–9s to ~1–2s. *(private)*
+- **Nepali TTS**: [chatterbox-nepali](https://github.com/45Harry/chatterbox-nepali) · [matcha-tts-nepali-test](https://github.com/45Harry/matcha-tts-nepali-test)
+- **BanknoteOCR**: Nepali denomination and signature pipeline (Roboflow detector + PyTorch siamese signature model, FastAPI), ~90% production accuracy. [banknote-classifier](https://github.com/45Harry/banknote-classifier) · [banknote-finetunning](https://github.com/45Harry/banknote-finetunning) · [clip-model-finetunning-banknotes](https://github.com/45Harry/clip-model-finetunning-banknotes)
+- **AnswerServiceAI**: UK hotel order and garage booking voice agents on Vapi, n8n, and Twilio.
 
 ---
 
@@ -20,6 +32,16 @@
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<!-- AWS -->
+<a href="https://aws.amazon.com/bedrock/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+
+<!-- Azure -->
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
 </a>
 
 <!-- FastAPI -->
@@ -32,34 +54,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </a>
 
-<!-- TensorFlow -->
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+<!-- PyTorch -->
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
 </a>
 
-<!-- Keras -->
-<a href="https://keras.io/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
-</a>
-
-<!-- Pandas -->
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-
-<!-- NumPy -->
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-</a>
-
-<!-- Matplotlib -->
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/>
-</a>
-
-<!-- Seaborn -->
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+<!-- OpenCV -->
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
 </a>
 
 <!-- HuggingFace -->
@@ -67,24 +69,44 @@
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
 </a>
 
-<!-- MySQL -->
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<!-- LangChain -->
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/>
 </a>
 
-<!-- Scikit-learn -->
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+<!-- LiveKit -->
+<a href="https://livekit.io/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" alt="livekit" width="40" height="40"/>
 </a>
 
-<!-- PyTorch -->
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+<!-- React -->
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </a>
 
-<!-- NLTK -->
-<a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-  <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="nltk" width="40" height="40"/>
+<!-- TypeScript -->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+
+<!-- Vite -->
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
+</a>
+
+<!-- C -->
+<a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
+
+<!-- C++ -->
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
+
+<!-- Go -->
+<a href="https://go.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 </a>
 
 <!-- Git -->
@@ -92,27 +114,10 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
 
-
 <!-- Linux -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
-
-<!-- Jupyter Notebook -->
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-</a>
-
-<!-- MongoDB -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-</a>
-
-<!-- LangChain -->
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/>
-</a>
-
 
 </p>
 
@@ -125,4 +130,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=45harry&" alt="45harry" />
 </p>
-
