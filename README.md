@@ -22,7 +22,7 @@
 - **Colait**: clinical voice interview and scribe platform. Physician interviews over bidirectional audio or chat. Scribe turns a visit into a diarized, romanized brief. Deployed to ECR and Bedrock AgentCore. *(private)*
 - **TelvoxAI**: LiveKit voice-agent platform with a multi-tool phone agent (leads, calendar, transfer, custom HTTP tools). Moving STT to Groq cut turn latency from ~8–9s to ~1–2s. *(private)*
 - **Nepali TTS**: [chatterbox-nepali-tts](https://huggingface.co/Imbatmann/chatterbox-nepali-tts) on Hugging Face
-- **BanknoteOCR**: Nepali denomination and signature pipeline (Roboflow detector + PyTorch siamese signature model, FastAPI), ~90% production accuracy. [banknote-classifier](https://github.com/45Harry/banknote-classifier) · [banknote-finetunning](https://github.com/45Harry/banknote-finetunning) · [clip-model-finetunning-banknotes](https://github.com/45Harry/clip-model-finetunning-banknotes)
+- **BanknoteOCR**: Nepali denomination and signature pipeline (Roboflow detector + PyTorch siamese signature model, FastAPI), ~90% production accuracy.
 - **AnswerServiceAI**: UK hotel order and garage booking voice agents on Vapi, n8n, and Twilio.
 
 ---
