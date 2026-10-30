@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 AI Engineer at **Mantra Ideas**, Lalitpur, shipping production voice systems and clinical speech pipelines
-- 🎙️ Built **Colait**'s physician interview agent (Amazon Nova Sonic + Claude Haiku on Bedrock) and its clinical scribe pipeline
+- 🎙️ Built **Colait**'s physician interview agent and its clinical scribe pipeline
 - 🇳🇵 Working on **Nepali TTS**: Chatterbox and Matcha-TTS fine-tunes for Devanagari
 - 💬 Ask me about **voice agents, LiveKit, Bedrock, speech pipelines, and computer vision**
 - 🌐 Portfolio: **[harins.com.np](https://harins.com.np)**
@@ -19,9 +19,9 @@
 
 <h3 align="left">Featured Work:</h3>
 
-- **Colait**: clinical voice interview and scribe platform. Physician interviews over bidirectional audio or chat, with Nova Sonic speaking and Haiku planning each turn. Scribe turns a visit into a diarized, romanized brief. Deployed to ECR and Bedrock AgentCore. *(private)*
+- **Colait**: clinical voice interview and scribe platform. Physician interviews over bidirectional audio or chat. Scribe turns a visit into a diarized, romanized brief. Deployed to ECR and Bedrock AgentCore. *(private)*
 - **TelvoxAI**: LiveKit voice-agent platform with a multi-tool phone agent (leads, calendar, transfer, custom HTTP tools). Moving STT to Groq cut turn latency from ~8–9s to ~1–2s. *(private)*
-- **Nepali TTS**: [chatterbox-nepali](https://github.com/45Harry/chatterbox-nepali) · [matcha-tts-nepali-test](https://github.com/45Harry/matcha-tts-nepali-test)
+- **Nepali TTS**: [chatterbox-nepali-tts](https://huggingface.co/Imbatmann/chatterbox-nepali-tts) on Hugging Face
 - **BanknoteOCR**: Nepali denomination and signature pipeline (Roboflow detector + PyTorch siamese signature model, FastAPI), ~90% production accuracy. [banknote-classifier](https://github.com/45Harry/banknote-classifier) · [banknote-finetunning](https://github.com/45Harry/banknote-finetunning) · [clip-model-finetunning-banknotes](https://github.com/45Harry/clip-model-finetunning-banknotes)
 - **AnswerServiceAI**: UK hotel order and garage booking voice agents on Vapi, n8n, and Twilio.
 
