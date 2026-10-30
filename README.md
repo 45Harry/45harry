@@ -9,6 +9,7 @@
 
 - 🔭 AI Engineer at **Mantra Ideas**, Lalitpur, shipping production voice systems and clinical speech pipelines
 - 🎙️ Built **Colait**'s physician interview agent and its clinical scribe pipeline
+- 🌉 Built **[AgentBridge](https://github.com/45Harry/agentbridge)** solo: move AI coding sessions between Claude Code, Codex, OpenCode and Antigravity
 - 🇳🇵 Working on **Nepali TTS**: Chatterbox and Matcha-TTS fine-tunes for Devanagari
 - 💬 Ask me about **voice agents, LiveKit, Bedrock, speech pipelines, and computer vision**
 - 🌐 Portfolio: **[harins.com.np](https://harins.com.np)**
@@ -19,6 +20,7 @@
 
 <h3 align="left">Featured Work:</h3>
 
+- **[AgentBridge](https://github.com/45Harry/agentbridge)**: my solo open-source project. One session layer for every AI coding agent: start a conversation in Claude Code and continue it in Codex, OpenCode or Antigravity, from any folder. A small Rust MCP server that reads sessions straight from the original files and writes continued turns back. `pipx install agentbridge-rs`
 - **Colait**: clinical voice interview and scribe platform. Physician interviews over bidirectional audio or chat. Scribe turns a visit into a diarized, romanized brief. Deployed to ECR and Bedrock AgentCore. *(private)*
 - **TelvoxAI**: LiveKit voice-agent platform with a multi-tool phone agent (leads, calendar, transfer, custom HTTP tools). Moving STT to Groq cut turn latency from ~8–9s to ~1–2s. *(private)*
 - **Nepali TTS**: [chatterbox-nepali-tts](https://huggingface.co/Imbatmann/chatterbox-nepali-tts) on Hugging Face
