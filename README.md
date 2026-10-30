@@ -12,6 +12,7 @@
 - 🇳🇵 Working on **Nepali TTS**: Chatterbox and Matcha-TTS fine-tunes for Devanagari
 - 💬 Ask me about **voice agents, LiveKit, Bedrock, speech pipelines, and computer vision**
 - 🌐 Portfolio: **[harins.com.np](https://harins.com.np)**
+- 🤗 Hugging Face: **[Imbatmann](https://huggingface.co/Imbatmann)**
 - 📫 How to reach me: **smartharry499@gmail.com** · [LinkedIn](https://www.linkedin.com/in/45harry)
 
 ---
@@ -65,7 +66,7 @@
 </a>
 
 <!-- HuggingFace -->
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+<a href="https://huggingface.co/Imbatmann" target="_blank" rel="noreferrer">
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
 </a>
 
